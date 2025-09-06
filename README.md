@@ -8,7 +8,7 @@ A modern, production-ready Next.js application for exploring financial market da
 
 - **Time Series Data**: Access intraday, daily, weekly, and monthly stock price data with interactive charts
 - **News & Sentiment Analysis**: Real-time news and sentiment analysis for stocks and market topics
-- **Fundamental Data**: Company financials, earnings, balance sheets, cash flow, and insider transactions
+- **Fundamental Data**: Company financials, earnings, balance sheets and cash flow
 - **Modern UI**: Clean, responsive design with dark mode support
 - **Interactive Visualizations**: Charts powered by Recharts for data visualization
 - **Symbol Search**: Autocomplete search for stock symbols
@@ -115,7 +115,7 @@ avn/
 ### Fundamentals
 - **Company Overview** (`/fundamentals/overview`): Company info and key metrics
 - **Earnings** (`/fundamentals/earnings`): Annual and quarterly earnings reports
-- Additional pages for income statements, balance sheets, cash flow, and insider transactions
+- Additional pages for income statements, balance sheets and cash flow
 
 ## API Routes
 
