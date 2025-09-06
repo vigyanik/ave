@@ -1,5 +1,7 @@
 # Alpha Vantage Data Explorer
 
+![Alpha Vantage Data Explorer](./ave.gif)
+
 A modern, production-ready Next.js application for exploring financial market data through the Alpha Vantage API. Built with TypeScript, Tailwind CSS, and featuring interactive charts and tables.
 
 ## Features
